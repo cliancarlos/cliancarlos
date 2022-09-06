@@ -11,10 +11,6 @@
 
 I'm a full-stack developer, currently developing Web Applications with Laravel and Vue, but I'm always venturing into other areas like UX, Automations, Web Scraping among other things.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
-  
-
-
 </br>
 
 

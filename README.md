@@ -17,7 +17,7 @@ I'm a full-stack developer, currently developing Web Applications with Laravel a
 📈 **My GitHub Stats:**
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cliancarlos" />
+  <img height="270" src="https://github-readme-streak-stats.herokuapp.com/?user=cliancarlos" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cliancarlos" />
   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cliancarlos&theme=vue" />
   

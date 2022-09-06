@@ -19,7 +19,7 @@ I'm a full-stack developer, currently developing Web Applications with Laravel a
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cliancarlos" />
   
-  <img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cliancarlos&theme=vue" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cliancarlos&theme=vue" />
   <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cliancarlos" />
   
 </p>
